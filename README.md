@@ -6,6 +6,7 @@
   - Linux, Mac, and Unix
   - Progressive Web Apps
   - Distributed Computing
+  - Documentation
   - Raspberry Pi and Arduino
   - Autonomous Vehicles (Drones, UAV)
   - Making my garage door talk to my toaster
