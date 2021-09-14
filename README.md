@@ -11,5 +11,4 @@
   - Autonomous Vehicles (Drones, UAV)
   - Making my garage door talk to my toaster
   - Other stuff ...
-- 💞️ I’m currently looking to collaborate only in general conversation
 - 📫 How to reach me: xylorb.281@gmail.com
